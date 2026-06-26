@@ -56,19 +56,19 @@ Während des Projekts war ich verantwortlich für:
 
 ### Login
 
-*(Screenshot einfügen)*
+![Login](screenshots/Login.png)
 
 ### Summary
 
-*(Screenshot einfügen)*
+![Summary](screenshots/Summary.png)
 
 ### Board
 
-*(Screenshot einfügen)*
+![Board](screenshots/Board.png)
 
 ### Mobile Version
 
-*(Screenshot einfügen)*
+![Mobile](screenshots/Mobile.png)
 
 ---
 
