@@ -4,7 +4,6 @@ Während meiner Weiterbildung an der **Developer Akademie** habe ich gemeinsam m
 
 🔗 **Original Repository:** https://github.com/hld2705/Join
 
-🌐 **Live Demo:** https://hld2705.github.io/Join/
 
 ---
 
